@@ -9,3 +9,4 @@ The log of my #100DaysOfCode challenge. Started on [May 6, Monday, 2019].
 * Fixed styling issues with calendar and utilizing the line-height property to add margin - https://github.com/aire-con-gas/engee-datepicker-lib/commit/2e20664f3714e13ab28ca08df52692fc8551f458
 
 ### R1D2
+* Worked on a solution for a programming exercise - https://gist.github.com/aire-con-gas/e93326fe6469d301f9fd4100cfa12af6
