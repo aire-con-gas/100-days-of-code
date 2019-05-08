@@ -10,3 +10,4 @@ The log of my #100DaysOfCode challenge. Started on [May 6, Monday, 2019].
 
 ### R1D2
 * Worked on a solution for a programming exercise - https://gist.github.com/aire-con-gas/e93326fe6469d301f9fd4100cfa12af6
+* Refactored code for engee-datepicker-lib to separate component - https://github.com/aire-con-gas/engee-datepicker-lib/commit/b2437612bb6c3744453b4f4290721e2908ac0a49
