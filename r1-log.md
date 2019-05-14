@@ -17,3 +17,6 @@ The log of my #100DaysOfCode challenge. Started on [May 6, Monday, 2019].
 
 ### R1D4 - 2019-05-09
 * Refactor of engee-datepicker-lib to move month rendering logic into a separate month component - https://github.com/aire-con-gas/engee-datepicker-lib/commit/48eaba977cb2454013022e00c92bacf303250745
+
+### R1D5 - 2019-05-14
+* [20190509] Refactor of datepicker component - https://github.com/aire-con-gas/engee-datepicker-lib/commit/48eaba977cb2454013022e00c92bacf303250745
